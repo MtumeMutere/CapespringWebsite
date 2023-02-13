@@ -1,0 +1,17 @@
+AccommodationID,Accommodation_type,No_of_bedrooms,Style,Price_per_night
+,Apartment,1,Standard,75
+,Apartment,1,Luxury,95
+,Apartment,2,Standard,89
+,Apartment,2,Luxury,109
+,Apartment,3,Standard,105
+,Apartment,3,Luxury,115
+,Apartment,4,Standard,125
+,Apartment,4,Luxury,140
+,Villa,1,Standard,130
+,Villa,1,Luxury,155
+,Villa,2,Standard,145
+,Villa,2,Luxury,170
+,Villa,3,Standard,160
+,Villa,3,Luxury,185
+,Villa,4,Standard,190
+,Villa,4,Luxury,205
